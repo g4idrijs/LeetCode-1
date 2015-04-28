@@ -1,0 +1,14 @@
+D:\MyCode\LeetCode\AlgorithmsTest\bin\Debug\AlgorithmsTest.dll
+D:\MyCode\LeetCode\AlgorithmsTest\bin\Debug\AlgorithmsTest.pdb
+D:\MyCode\LeetCode\AlgorithmsTest\obj\Debug\AlgorithmsTest.csprojResolveAssemblyReference.cache
+D:\MyCode\LeetCode\AlgorithmsTest\obj\Debug\AlgorithmsTest.dll
+D:\MyCode\LeetCode\AlgorithmsTest\obj\Debug\AlgorithmsTest.pdb
+D:\MyCode\LeetCode\AlgorithmsTest\bin\Debug\Algorithms.dll
+D:\MyCode\LeetCode\AlgorithmsTest\bin\Debug\Algorithms.pdb
+E:\GitHub\LeetCode\AlgorithmsTest\bin\Debug\AlgorithmsTest.dll
+E:\GitHub\LeetCode\AlgorithmsTest\bin\Debug\AlgorithmsTest.pdb
+E:\GitHub\LeetCode\AlgorithmsTest\bin\Debug\Algorithms.dll
+E:\GitHub\LeetCode\AlgorithmsTest\bin\Debug\Algorithms.pdb
+E:\GitHub\LeetCode\AlgorithmsTest\obj\Debug\AlgorithmsTest.csprojResolveAssemblyReference.cache
+E:\GitHub\LeetCode\AlgorithmsTest\obj\Debug\AlgorithmsTest.dll
+E:\GitHub\LeetCode\AlgorithmsTest\obj\Debug\AlgorithmsTest.pdb
